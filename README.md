@@ -1,7 +1,7 @@
 This project was run inside of Visual Studio Code that has C++ and G++ installed. Please refer to this link to learn how to install the necessary requirements to run c++ code: https://code.visualstudio.com/docs/languages/cpp
 
 HOW TO RUN:
-1. Build the code within visual studio.
+1. Build the code within visual studio by going to Run->Run without debugging.
 2. In the terminal, run the executable created with the build with the command ./transactions.
 
 NOTE: The main function is exactly the same as it is in the assignments figures. If any functions would need to be tested individually, more code must be implemented into main. 
